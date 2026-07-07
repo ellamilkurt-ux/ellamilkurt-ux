@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Karinderya ni aling Susan**
 
-- 👯 I’m looking to collab withorate on **lexi Lore**
+- 👯 I’m looking to collab with **lexi Lore**
 
 - 🤝 I’m looking for help with mywith **Missing Brother**
 
