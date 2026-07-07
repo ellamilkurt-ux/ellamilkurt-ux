@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kurt Ellamil</h1>
-<h3 align="center">A passionate frontend developer from New York Cubao</h3>
+<h3 align="center">A frontend developer from New York Cubao</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellamilkurt-ux&label=Profile%20views&color=0e75b6&style=flat" alt="ellamilkurt-ux" /> </p>
 
 - 🔭 I’m currently working on **karinderya ni aling susan**
 
-- 👯 I’m looking to collaborate on **ice spice**
+- 👯 I’m looking to collaborate with **ice spice**
+
+- 🤝 I’m looking for help with **my missing brother**
 
 - 📫 How to reach me **ellamilkurt@gmail.com**
 
